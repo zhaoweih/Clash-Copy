@@ -3,4 +3,6 @@
 
 这个库只是做个备份，mac版是我临删库前从官方github库下的，其他两个版本是互联网资源，安全性自行考虑。
 
-下载地址：https://github.com/zhaoweih/Clash-Copy/releases/tag/1.0
+**下载地址：https://github.com/zhaoweih/Clash-Copy/releases/tag/1.0**
+
+如果客户端资源有问题可以及时给我提Issues处理：https://github.com/zhaoweih/Clash-Copy/issues
