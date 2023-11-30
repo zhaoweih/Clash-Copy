@@ -10,4 +10,6 @@ Clash Premium
 
 🤖Android客户端:ClashForAndroid:[Clash for Android_2.5.12.premium_Apkpure.apk](https://github.com/zhaoweih/Clash-Copy/raw/main/Clash%20for%20Android_2.5.12.premium_Apkpure.apk)
 
+iOS建议使用[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，可以直接用Clash订阅地址
+
 如果客户端资源有问题可以及时给我提Issues处理：https://github.com/zhaoweih/Clash-Copy/issues
