@@ -1,4 +1,7 @@
 # Clash备份
+
+🔔Tips:大家如果想搭建自己的服务器代理，推荐查看[🐱给小白的Shadowsocks翻墙教程](https://github.com/zhaoweih/Shadowsocks-Tutorial)
+
 虽然目前Clash已经404了，但是对比了一些其他的软件，目前还是Clash用的最顺，但是还能用多久不知道，能用的时候就接着用吧。
 
 Clash Premium
@@ -12,4 +15,6 @@ Clash Premium
 
 iOS建议使用[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，可以直接用Clash订阅地址
 
-如果客户端资源有问题可以及时给我提Issues处理：https://github.com/zhaoweih/Clash-Copy/issues
+
+如果客户端资源有问题可以给我发邮件📮：zhaoweihao.dev@gmail.com
+
