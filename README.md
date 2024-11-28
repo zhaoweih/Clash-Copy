@@ -15,7 +15,7 @@ Clash Premium
 
 iOS建议使用[shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118)，可以直接用Clash订阅地址
 
-🐧Linux客户端:ClashForLinux:[Clash for linux](https://github.com/zhaoweih/clash-for-linux-backup)
+🐧Linux客户端:[Clash.for.Linux.zip](https://github.com/zhaoweih/Clash-Copy/raw/main/Clash.for.Linux.zip)
 
 
 如果客户端资源有问题可以给我发邮件📮：zhaoweihao.dev@gmail.com
