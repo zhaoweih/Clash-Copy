@@ -1,3 +1,5 @@
+[🇬🇧English](./README_en.md)
+
 # Clash备份
 
 🔔Tips:大家如果想搭建自己的服务器代理，推荐查看[🐱给小白的Shadowsocks翻墙教程](https://github.com/zhaoweih/Shadowsocks-Tutorial)
