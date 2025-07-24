@@ -1,3 +1,6 @@
+[🇨🇳中文](./README.md)
+[🇰🇷한국어](./README_kr.md)
+
 # Clash Backup
 
 🔔Tips: If you're looking to set up your own server proxy, it's recommended to check out [🐱Shadowsocks Tutorial for Beginners](https://github.com/zhaoweih/Shadowsocks-Tutorial).
