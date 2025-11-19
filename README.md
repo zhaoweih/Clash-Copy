@@ -9,7 +9,7 @@
 Clash Premium
 下载：
 
-🍎Mac客户端: ClashX Pro :[ClashXPro-v1.118.1.1.dmg](https://github.com/zhaoweih/Clash-Copy/raw/main/ClashXPro-v1.118.1.1.dmg)
+🍎Mac客户端: ClashX Pro :[ClashXPro-v1.118.1.1.dmg](https://github.com/zhaoweih/Clash-Copy/raw/main/ClashXPro-v1.118.1.1.dmg) (macOS 26以上建议使用这个版本：[ClashX-1.118.0.dmg](https://github.com/zhaoweih/Clash-Copy/raw/refs/heads/main/ClashX-1.118.0.dmg))
 
 🪟Windows客户端: ClashForWindows:[Clash.for.Windows.Setup.0.20.39](https://github.com/zhaoweih/Clash-Copy/raw/main/Clash.for.Windows.Setup.0.20.39.exe)
 

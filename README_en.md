@@ -7,7 +7,7 @@ Although Clash is currently hard to find (404), it remains one of the most user-
 ## Clash Premium  
 ### Downloads:
 
-🍎Mac Client: ClashX Pro: [ClashXPro-v1.118.1.1.dmg](https://github.com/zhaoweih/Clash-Copy/raw/main/ClashXPro-v1.118.1.1.dmg)
+🍎Mac Client: ClashX Pro: [ClashXPro-v1.118.1.1.dmg](https://github.com/zhaoweih/Clash-Copy/raw/main/ClashXPro-v1.118.1.1.dmg) (macOS 26 or above is recommended to use this version:[ClashX-1.118.0.dmg](https://github.com/zhaoweih/Clash-Copy/raw/refs/heads/main/ClashX-1.118.0.dmg))
 
 🪟Windows Client: ClashForWindows: [Clash.for.Windows.Setup.0.20.39](https://github.com/zhaoweih/Clash-Copy/raw/main/Clash.for.Windows.Setup.0.20.39.exe)
 
